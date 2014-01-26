@@ -1,4 +1,4 @@
-pintask-new-zealand-theme
+A New Zealand theme for Pintask
 =========================
 
-A New Zealand theme for Pintask — admirable sheep on your board background.
+Admirable sheep on your board background.
