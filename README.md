@@ -1,4 +1,4 @@
 A New Zealand theme for Pintask
 =========================
 
-Admirable sheep on your board background.
+The most well-known inhabitants of this country will exchange a few glances with you while exploring your boards' background.
