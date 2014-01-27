@@ -10,37 +10,13 @@ html {
     box-shadow: 0 5px 15px 0 #97989c;
     z-index: 10000;
   }
-  .board-edit form, .board-calendar .board-calendar-message {
+  .board-list, .board-edit form, .board-calendar .board-calendar-message {
     background-color: rgba(236, 239, 244, 0.95);
   }
   .board-list {
-    background-color: rgba(236, 239, 244, 0.7);
     margin-left: 15px;
     .board-list-header {
       margin-top: 10px;
-      .board-list-title h2 {
-        color: #6b7782;
-      }
-    }
-    a.add-card-link, a.add-card-link:link, a.add-card-link:active, a.add-card-link:visited {
-      color: #4ea2dc;
-      font-weight: bold;
-      .sprite {
-        display: none;
-      }
-      .text {
-        margin: 0;
-        position: relative;
-        padding-left: 18px;
-        &::before {
-          content: "+ ";
-          position: absolute;
-          margin-top: -9px;
-          top: 50%;
-          left: 0;
-          font-size: 24px;
-        }
-      }
     }
   }
 }
