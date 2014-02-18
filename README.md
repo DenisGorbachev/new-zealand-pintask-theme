@@ -1,7 +1,7 @@
 A New Zealand theme for Pintask
 =========================
 
-The most well-known inhabitants of this country will exchange a few glances with you while exploring your boards' background.
+The most well-known inhabitants of this country will exchange a few glances with you while exploring boards' background on http://pintask.me/.
 
 This beautiful theme is only a few lines of code:
 
